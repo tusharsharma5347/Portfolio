@@ -9,21 +9,21 @@ const Projects = () => {
             subtitle: "E-commerce Platform for Agricultural Products",
             description: "React • Node.js • MongoDB • Stripe • TailwindCSS • Tailwind CSS",
             image: "bg-gray-100", // Placeholder for image
-            link: "#"
+            link: "https://github.com/tusharsharma5347/KrishiConnect"
         },
         {
             title: "Epicurean Explorer",
             subtitle: "",
             description: "React • Node.js • MongoDB • Stripe • TailwindCSS • Gemini AI",
             image: "bg-gray-100",
-            link: "#"
+            link: "https://github.com/tusharsharma5347/Epicurean-Explorer"
         },
         {
             title: "StockPredict",
             subtitle: "Stock Market Prediction",
             description: "Python • Streamlit • Machine Learning • Version Control • Google Colab",
             image: "bg-gray-100",
-            link: "#"
+            link: "https://github.com/tusharsharma5347/StockPredict"
         }
     ];
 
@@ -51,10 +51,10 @@ const Projects = () => {
 
                                 <div className="flex gap-4 mt-auto">
                                     <a href={project.link} className="text-[#0071e3] hover:underline flex items-center gap-1 text-sm font-medium">
-                                        Learn more <ChevronRight size={14} />
+                                        Github <ChevronRight size={14} />
                                     </a>
                                     <a href={project.link} className="text-[#0071e3] hover:underline flex items-center gap-1 text-sm font-medium">
-                                        View Demo <ChevronRight size={14} />
+                                        View Demo(Currently Not Available) <ChevronRight size={14} />
                                     </a>
                                 </div>
                             </div>

@@ -25,16 +25,16 @@ const Contact = () => {
                             <div className="space-y-4">
                                 <a href="mailto:tushar@example.com" className="flex items-center gap-3 text-gray-600 hover:text-black transition-colors">
                                     <Mail size={20} />
-                                    <span>tushar@example.com</span>
+                                    <span>tusharshwork@gmail.com</span>
                                 </a>
                                 <div className="flex gap-4 mt-8">
-                                    <a href="#" className="p-3 bg-gray-100 rounded-full hover:bg-gray-200 transition-colors">
+                                    <a href="https://www.linkedin.com/in/tushar53/" className="p-3 bg-gray-100 rounded-full hover:bg-gray-200 transition-colors">
                                         <Linkedin size={20} />
                                     </a>
-                                    <a href="#" className="p-3 bg-gray-100 rounded-full hover:bg-gray-200 transition-colors">
+                                    <a href="https://github.com/tusharsharma5347" className="p-3 bg-gray-100 rounded-full hover:bg-gray-200 transition-colors">
                                         <Github size={20} />
                                     </a>
-                                    <a href="#" className="p-3 bg-gray-100 rounded-full hover:bg-gray-200 transition-colors">
+                                    <a href="https://x.com/tusharsharma996" className="p-3 bg-gray-100 rounded-full hover:bg-gray-200 transition-colors">
                                         <Twitter size={20} />
                                     </a>
                                 </div>
